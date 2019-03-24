@@ -13,5 +13,5 @@ There are four main methods in the client project.
 
 by running two project at the same time (client and service), you can connect to service, debug, examine and integrate api client to your own projects.
 
-<br/><br/>
+<br/>
 Written by Mustafa Çağatay KIZILTAN
