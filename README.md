@@ -17,4 +17,5 @@ by running two project at the same time (client and service), you can connect to
 
 <b>DONT FORGET : change uri in the client application with your own local service uri.</b>
 <br/>
+
 Written by Mustafa Çağatay KIZILTAN
