@@ -2,7 +2,7 @@
 
 Restsharp client implementation you can consume your services easily
 
-There are two solution in the repository. First is client, Second is service.
+There are two solution in the repository. First is client, second is service.
 
 There are four main methods in the client project.
 
