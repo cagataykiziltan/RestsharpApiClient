@@ -1,6 +1,6 @@
 # RestsharpApiClient
 
-Restsharp client implementation by using restSharp package you can consume your services easily
+Restsharp client implementation by using restsharp package you can consume your services easily
 
 There are two solution in the repository. First is client, second is service.<br/><br/>
  **client is your client project including connection methods to services and sample service calls<br/>
