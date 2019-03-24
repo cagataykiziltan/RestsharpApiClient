@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\bin\Debug\netcoreapp1.1\SampleService.deps.json
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\bin\Debug\netcoreapp1.1\SampleService.runtimeconfig.json
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\bin\Debug\netcoreapp1.1\SampleService.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\bin\Debug\netcoreapp1.1\SampleService.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\bin\Debug\netcoreapp1.1\SampleService.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\obj\Debug\netcoreapp1.1\SampleService.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\obj\Debug\netcoreapp1.1\SampleService.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\obj\Debug\netcoreapp1.1\SampleService.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\SampleService\SampleService\obj\Debug\netcoreapp1.1\SampleService.pdb

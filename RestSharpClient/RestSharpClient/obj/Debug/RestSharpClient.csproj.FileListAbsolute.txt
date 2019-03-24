@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\RestSharpClient.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\RestSharpClient.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\RestSharpClient.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\RestSharp.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\Newtonsoft.Json.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\bin\Debug\RestSharp.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\obj\Debug\RestSharpClient.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\obj\Debug\RestSharpClient.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\RestSharpClient\RestSharpClient\obj\Debug\RestSharpClient.pdb
