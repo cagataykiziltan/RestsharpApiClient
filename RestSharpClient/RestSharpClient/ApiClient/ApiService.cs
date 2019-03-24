@@ -19,7 +19,6 @@ namespace RestSharpClient.ApiClient
         {
             var client = new RestClient(uri);
             var request = new RestRequest(Method.GET) { RequestFormat = DataFormat.Json };
-
             var result = GetResult<T>(client, request, null, headers);
 
             return result;
