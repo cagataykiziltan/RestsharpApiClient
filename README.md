@@ -2,9 +2,9 @@
 
 Restsharp client implementation by using restSharp package you can consume your services easily
 
-There are two solution in the repository. First is client, second is service.
- ** client is your client project including connection methods to services and sample service calls
- ** service is sample api service to test your client
+There are two solution in the repository. First is client, second is service.<br/>
+ ** client is your client project including connection methods to services and sample service calls<br/>
+ ** service is sample api service to test your client<br/>
 
 There are four main methods in the client project.
 
