@@ -13,7 +13,9 @@ There are four main methods in the client project.
 * Get method which you can get from service.<br/>
 * Delete method which you can delete data.<br/>
 
-by running two project at the same time (client and service), you can connect to service, debug, examine and integrate api client to your own projects.
+by running two project at the same time (client and service), you can connect to service, debug, examine and integrate api client to your own projects.<br/>
+
+<b>DONT FORGET : change uri in the client application with your own local uri</b>
 
 <br/>
 Written by Mustafa Çağatay KIZILTAN
